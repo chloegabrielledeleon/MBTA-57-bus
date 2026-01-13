@@ -1,4 +1,4 @@
-# MBTA-57-bus[MBTA-57-bus README.md](https://github.com/user-attachments/files/24597421/MBTA-57-bus.README.md)
+# [MBTA-57-bus README.md](https://github.com/user-attachments/files/24597421/MBTA-57-bus.README.md)
 **Project Description:**
 
 * This project gives a detailed analysis of the 57 bus line from Watertown Yard to Kenmore station. The project first determines the stops and each of their IDs so they can be used to find both the predicted departure and arrival times at each stop. This difference between each time is then averaged to get a mean wait time. Statistical analysis then performed across all this data to get overall statistics and trends for average wait times across all stations.
