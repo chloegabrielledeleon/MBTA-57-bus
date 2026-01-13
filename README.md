@@ -20,16 +20,6 @@
 * When looking at the data called through the API, we found that some departure times were predicted to happen before the arrival times. When we googled why this was happening, it said it might just have to do with the way the MBTA collects data. This was a challenge because for our original plan, we wanted to define "wait time" as the time between the bus's departure at a stop and the next bus's arrival at the same stop. However, due to the data provided and our inability to correct it, we used time between departures as wait time.  
 * The conclusions and data visualizations provided about are based on a certain API call, but it is likely that these conclusions would be different if the API was called at another time. 
 
-**Graphs**  
-![][image1]![][image2]
-
-![][image3]![][image4]
-
-**Conclusions:**
-
-*   
-* 
-
 **Conclusions:**
 
 * By calculating the average wait times of each inbound and outbound stop, we determined that the mean wait time across all inbound stops was about 17 minutes and the mean wait time across all outbound stops was about 15 minutes and 42 seconds.  
